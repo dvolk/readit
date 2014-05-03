@@ -1,5 +1,9 @@
 {-# LANGUAGE PackageImports #-}
 
+-- some functions from rascal's Main.hs
+-- see https://github.com/soli/rascal
+-- Copyright (c) 2013 Sylvain Soliman <Sylvain.Soliman@gmail.com>
+
 import Control.Monad
 import "mtl" Control.Monad.Trans (liftIO)
 import Text.Printf
